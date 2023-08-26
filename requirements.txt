@@ -2,4 +2,4 @@ numpy
 matplotlib
 scipy
 pygame
-python3-pyaudio
+pyaudio
